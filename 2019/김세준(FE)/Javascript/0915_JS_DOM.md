@@ -1,7 +1,5 @@
 # Javascript - DOM
 
-
-
 ## 1. DOM 이란?
 
 #### DOM = The Document Object Model = 문서 객체 모델 
